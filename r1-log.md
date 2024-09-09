@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [september 09, Sunday, 2024].
 Started a recipe page. Worked on the draft layout of the page, struggled with its HTML.
 
 ### R1D2
+I completed my first project.
