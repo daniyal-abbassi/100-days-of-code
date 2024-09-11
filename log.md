@@ -27,5 +27,16 @@
 
 **Link(s) to work**: will add soon...
 
+## Day 4: September 11, 2024
+##### ( Blog preview Project)
+
+**Today's Progress**: Complete project, The page is Completed.
+
+**Thoughts**: will add soon.. i gotta find out what i have learn...
+
+**Link(s) to work**: will add soon...
+
+
+
 
 
