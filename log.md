@@ -36,6 +36,17 @@
 
 **Link(s) to work**: will add soon...
 
+## Day 5: September 16, 2024
+##### ( re-code)
+
+**Today's Progress**: I mess with Git and delete my projects, so I re-code them.
+
+**Thoughts**: DO NOT MESS WITH GIT, TRUST ME!
+
+**Link(s) to work**: LEARN GIT AND THEN WORK WITH IT.
+
+
+
 
 
 
