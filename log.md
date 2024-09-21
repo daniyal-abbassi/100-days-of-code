@@ -46,6 +46,15 @@
 **Link(s) to work**: LEARN GIT AND THEN WORK WITH IT.
 
 
+## Day 6: September 21, 2024
+##### ( free Code Camp Project)
+
+**Today's Progress**: I completed Free Code Camp first basic cat photo App. and code a sample by myself.
+
+**Thoughts**: somehave i should use some tags like: <figure> and <field> and <form>
+
+**Link(s) to work**: will add soon...
+
 
 
 
